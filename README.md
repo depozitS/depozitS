@@ -1,11 +1,8 @@
-### Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=depozitS)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=35&pause=1000&color=5A30FFBB&center=true&random=false&width=435&height=70&lines=Hi%2C+I'm+depozit)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depozitS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=depozitS&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depozitS&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=depozitS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **depozitS/depozitS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
