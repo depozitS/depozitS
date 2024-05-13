@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=35&pause=1000&color=5A30FFBB&center=true&random=false&width=435&height=70&lines=Hi%2C+I'm+depozit)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=depozitS&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depozitS&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=depozitS&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 <!--
 **depozitS/depozitS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
