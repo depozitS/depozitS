@@ -1,8 +1,11 @@
 ### Hi there 👋
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=depozitS)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depozitS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=depozitS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **depozitS/depozitS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
