@@ -24,7 +24,7 @@ Hi! I'm depozit. I love programming and I love creating cool projects. My goal i
 
 ## 🌟 My favorite projects
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TWMhub&repo=MCPackLanguageWizard&theme=tokyonight" alt="Project 1">
+<a href = https://github.com/TWMhub/MCPackLanguageWizard><img src="https://github-readme-stats.vercel.app/api/pin/?username=TWMhub&repo=MCPackLanguageWizard&theme=tokyonight" alt="Project 1"></a>
 
 <div align="center">
 </div>
