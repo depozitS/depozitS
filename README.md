@@ -12,7 +12,8 @@ my goal is to constantly learn and build useful, innovative solutions.
 
 ## 🔗 Digital footprints
 [![MonkeyType](https://img.shields.io/badge/YK4M4@MonkeyType-000000?style=for-the-badge&logo=keyboard&logoColor=white)](https://monkeytype.com/profile/YK4M4)
-*(coming soon)*
+
+*[More aliases coming soon...]* 
 
 ## 💻 Tech stack
 <div align="center">
