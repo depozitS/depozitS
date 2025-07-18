@@ -31,14 +31,13 @@ my goal is to constantly learn and build useful, innovative solutions.
 
 ## 🌟 Featured projects
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
+
   
-<a href="https://github.com/TWMhub/MCPackLanguageWizard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TWMhub&repo=MCPackLanguageWizard&theme=tokyonight&show_owner=true" alt="MCPack Wizard">
-</a>
-
+  <a href="https://github.com/depozitS/raz-b">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=depozitS&repo=raz-b&theme=tokyonight&show_owner=true" alt="raz-b">
+  </a>
 </div>
-
 ---
 
 ## 📊 Coding activity
