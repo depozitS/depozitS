@@ -38,6 +38,7 @@ my goal is to constantly learn and build useful, innovative solutions.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=depozitS&repo=raz-b&theme=tokyonight&show_owner=true" alt="raz-b">
   </a>
 </div>
+
 ---
 
 ## 📊 Coding activity
