@@ -41,16 +41,4 @@ my goal is to constantly learn and build useful, innovative solutions.
 
 ---
 
-## 📊 Coding activity
-
-<div align="center">
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Depozit&layout=compact&theme=tokyonight)](https://wakatime.com/@Depozit)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=depozitS&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-</div>
-
----
-
 🔐 *"Code never lies, comments sometimes do."*
