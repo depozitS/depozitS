@@ -10,10 +10,7 @@ my goal is to constantly learn and build useful, innovative solutions.
 
 ---
 
-## 🔗 Digital footprints
-[![MonkeyType](https://img.shields.io/badge/YK4M4@MonkeyType-000000?style=for-the-badge&logo=keyboard&logoColor=white)](https://monkeytype.com/profile/YK4M4)
 
-*[More aliases coming soon...]* 
 
 ## 💻 Tech stack
 <div align="center">
@@ -23,8 +20,6 @@ my goal is to constantly learn and build useful, innovative solutions.
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
   
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Linux](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 </div>
 
 ---
