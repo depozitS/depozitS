@@ -2,38 +2,9 @@
 
 ---
 
-## ✨ About me
+##  About me
 
 Hi! I'm depozit (though you might stumble upon my alter ego **YK4M4** in typing arenas). 
 I'm passionate about programming and creating cool projects. As a budding developer, 
 my goal is to constantly learn and build useful, innovative solutions.
 
----
-
-
-
-## 💻 Tech stack
-<div align="center">
-  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-</div>
-
----
-
-## 🌟 Featured projects
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
-
-  
-  <a href="https://github.com/depozitS/raz-b">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=depozitS&repo=raz-b&theme=tokyonight&show_owner=true" alt="raz-b">
-  </a>
-</div>
-
----
-
-🔐 *"Code never lies, comments sometimes do."*
